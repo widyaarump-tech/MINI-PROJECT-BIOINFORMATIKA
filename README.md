@@ -165,7 +165,6 @@ Analisis bioinformatika pada dataset GSE15852 berhasil mengidentifikasi sejumlah
 
 # References
 
-```bash
-├── NCBI Gene Expression Omnibus (GEO). Dataset GSE15852
-├── Ni, I. B. P., Zakaria, Z., Muhammad, R., Abdullah, N., Ibrahim, N., Emran, N. A., et al. (2010). Gene expression patterns distinguish breast carcinomas from normal breast tissues: the Malaysian context. Pathology-Research and Practice, 206(4), 223–228.
+NCBI Gene Expression Omnibus (GEO). Dataset GSE15852
+Ni, I. B. P., Zakaria, Z., Muhammad, R., Abdullah, N., Ibrahim, N., Emran, N. A., et al. (2010). Gene expression patterns distinguish breast carcinomas from normal breast tissues: the Malaysian context. Pathology-Research and Practice, 206(4), 223–228.
 
